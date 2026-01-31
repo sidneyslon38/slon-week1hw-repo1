@@ -6,3 +6,4 @@ This is the first of three public repositories I will be publishing for this wee
 
 Please see the other two Week 1 Homework repositories to view the complete assignment.
 In this repository, I have embedded a Google Form survey for site visitors to input their feelings about the weather.
+
