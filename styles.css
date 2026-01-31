@@ -15,6 +15,7 @@ You will find this is far easier than the opposite task of using CSS to cram you
   YOUR MOBILE/BASE STYLES GO HERE
 *********************************************************************/
 * {
+    background-color: lightgrey;
     box-sizing: border-box;
     padding: 5px;
 }
@@ -28,13 +29,16 @@ body {
     text-align: center;
 }
 .form {
-    display: flex;
-    justify-content: center;
+  text-align: center;
+  padding: 0 15px;
 }
-
 .form iframe {
-    width: 100%;
-    max-width: 640px;
+  display: block;
+  margin: 0 auto;
+  width: 100%;
+  max-width: 640px;
+  min-height: 3073px;
+  border: none;
 }
 
 /*********************************************************************
